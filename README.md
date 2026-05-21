@@ -23,3 +23,4 @@ Receives notification requests from all other services and dispatches email and 
 
 ## Dependencies
 - None (leaf service — receives calls, makes no outbound HTTP calls)
+# accuracy test trigger
