@@ -26,3 +26,4 @@ Receives notification requests from all other services and dispatches email and 
 # accuracy test trigger
 # reindex
 # reindex
+# reindex3
